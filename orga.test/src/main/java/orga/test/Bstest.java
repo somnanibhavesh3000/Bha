@@ -6,7 +6,6 @@ public class Bstest {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 
-		
 	}
 
 }
